@@ -1,0 +1,8 @@
+Name = input("Enter your name: ")
+Age = input("Enter your age: ")
+City = input("Enter your city: ")
+State = input("Enter your state: ")
+print("Name:", Name)
+print("Age:", Age)  
+print("City:", City)
+print("State:", State)
